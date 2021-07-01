@@ -1,0 +1,10 @@
+cache/
+data/
+code/zzz/
+*.Renviron
+*.Rhistory
+*.csv
+*.RData
+*.Rdata
+*.Rproj.user
+.Rproj.user
